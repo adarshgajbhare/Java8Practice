@@ -1,0 +1,40 @@
+1.Simple Greeting with Lambda
+Define a functional interface called Greeting with a method sayHello().
+Use a lambda expression to implement this interface and print a greeting message.
+
+2.Square of a Number
+Create a functional interface Square with a method calculate(int x).
+ Use a lambda expression to return the square of a given integer.
+
+3.Check Even or Odd
+Define a functional interface called CheckEvenOdd with a method isEven(int x).
+ Use a lambda expression to check if a given integer is even.
+
+4.String Concatenation
+Create a functional interface Concatenator with a method concat(String a, String b).
+Use a lambda expression to concatenate two strings.
+
+5.String Length Comparison
+Define a functional interface StringLengthComparator with a method
+compare(String a, String b). Use a lambda expression to compare the lengths of
+two strings and return the longer string.
+
+5.Print Each Element in an Array
+Define a functional interface ArrayPrinter with a method print(String[] array).
+Use a lambda expression to print each element in an array of strings.
+
+Calculate Factorial
+Create a functional interface Factorial with a method compute(int x).
+ Use a lambda expression to calculate the factorial of a given number.
+
+Find Maximum of Two Numbers
+Define a functional interface MaxFinder with a method max(int a, int b).
+ Use a lambda expression to find the maximum of two integers.
+
+Calculate Power of a Number
+Define a functional interface Power with a method calculate(int base, int exponent).
+Use a lambda expression to calculate the power of a base to a given exponent.
+
+Check If a String is a Palindrome
+Create a functional interface PalindromeChecker with a method isPalindrome(String str).
+Use a lambda expression to check if a string is a palindrome
