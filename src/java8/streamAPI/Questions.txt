@@ -1,0 +1,14 @@
+Question: You have a list of integers. Write a Java 8 stream expression to filter
+out all even numbers and multiply each remaining odd number by 2.
+
+Question: Given a list of strings, write a stream that sorts them in alphabetical
+ order and then converts each string to uppercase.
+
+Question: You have a list of integers. Write a stream to find all integers
+ that are divisible by 3 and collect them into a new list.
+
+Question: Given a list of integers, write a stream
+ to find the minimum and maximum number.
+
+Question: You have a list of Person objects with name and age fields. Write a stream
+  to create a list of names of people who are over 30 years old.

@@ -38,6 +38,11 @@ public class MainPoint {
           return b;
       }
   };
-        out.println(strLen.compare("somethig big ","gajbhare"));
+        out.println(strLen.compare("something","Gajbhare"));
+
+        out.println(strLen.compare("something big","Gajbhare"));
     }
+
+
+
 }

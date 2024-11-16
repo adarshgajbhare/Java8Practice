@@ -5,20 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8fe2342-1398-42a6-9fcd-3902691c0846" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/lamda/CheckEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/lamda/Concatenator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/lamda/LambdaExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/lamda/MainPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/lamda/Questions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/lamda/SquareOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/methodReference/MainPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/methodReference/UpperCaseInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/methodReference/UpperMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/test/MethodReferenceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/interview/StatisticsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/interview/StatisticsCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/lamda/MainPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/lamda/MainPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/DivisibleByThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/DivisibleByThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/FindOddNumMultiplyByTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/FindOddNumMultiplyByTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/MinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/Questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/Questions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/SortAndUppercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/SortAndUppercase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/SortNameStartsWithA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/SortNameStartsWithA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,45 +29,129 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;adarshgajbhare&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/adarshgajbhare/Java8Practice.git&quot;,
+    &quot;accountId&quot;: &quot;7d1e4b91-0b18-455f-b53d-b7fc43153e67&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2oSrQwTHasdfTfzOKmga5VTk3qE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.MainPoint.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DivisibleByThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindOddNumMultiplyByTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainPoint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReferenceExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortAndUppercase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortNameStartsWithA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StatisticsCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="java8.methodReference" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainPoint">
     <configuration name="MainPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.lamda.MainPoint" />
+      <option name="MAIN_CLASS_NAME" value="java8.methodReference.MainPoint" />
       <module name="Java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.lamda.*" />
+          <option name="PATTERN" value="java8.methodReference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.test.MethodReferenceExample" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortNameStartsWithA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.streamAPI.SortNameStartsWithA" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.streamAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.interview.StatisticsCalculator" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.interview.demo" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,14 +162,18 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainPoint" />
+        <item itemvalue="Application.MethodReferenceExample" />
+        <item itemvalue="Application.StatisticsCalculator" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.SortNameStartsWithA" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
       </set>
     </attachedChunks>
   </component>
@@ -96,7 +185,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730873808097</updated>
-      <workItem from="1730873809164" duration="3192000" />
+      <workItem from="1730873809164" duration="3487000" />
+      <workItem from="1730959358638" duration="685000" />
+      <workItem from="1731340503879" duration="1996000" />
+      <workItem from="1731368813198" duration="3648000" />
+      <workItem from="1731384256888" duration="647000" />
+      <workItem from="1731475651215" duration="2012000" />
+      <workItem from="1731631485198" duration="3104000" />
+      <workItem from="1731652498657" duration="856000" />
+      <workItem from="1731760869034" duration="2530000" />
+      <workItem from="1731768263703" duration="4361000" />
+      <workItem from="1731774806847" duration="972000" />
     </task>
     <servers />
   </component>
