@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8fe2342-1398-42a6-9fcd-3902691c0846" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java8/methodReference/MainPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/methodReference/UpperCaseInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/methodReference/UpperMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8/test/MethodReferenceExample.java" afterDir="false" />
+    <list default="true" id="a8fe2342-1398-42a6-9fcd-3902691c0846" name="Changes" comment="Learning Method Reference in java 8">
+      <change afterPath="$PROJECT_DIR$/src/java8/methodReference/constructorRef/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/methodReference/constructorRef/Provider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/methodReference/constructorRef/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/optionalClass/MainOptional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/interview/StatisticsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/interview/StatisticsCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/lamda/MainPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/lamda/MainPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/DivisibleByThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/DivisibleByThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/FindOddNumMultiplyByTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/FindOddNumMultiplyByTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/MinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/Questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/Questions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/SortAndUppercase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/SortAndUppercase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/streamAPI/SortNameStartsWithA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/streamAPI/SortNameStartsWithA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/methodReference/MainPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/methodReference/MainPoint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +57,7 @@
     &quot;Application.FindOddNumMultiplyByTwo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Interview.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainOptional.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainPoint.executor&quot;: &quot;Run&quot;,
     &quot;Application.MethodReferenceExample.executor&quot;: &quot;Run&quot;,
     &quot;Application.MinMax.executor&quot;: &quot;Run&quot;,
@@ -93,7 +85,33 @@
       <recent name="java8.methodReference" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainPoint">
+  <component name="RunManager" selected="Application.MainOptional">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.methodReference.constructorRef.Main" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.methodReference.constructorRef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.optionalClass.MainOptional" />
+      <module name="Java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.optionalClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8.methodReference.MainPoint" />
       <module name="Java8" />
@@ -120,19 +138,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortNameStartsWithA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.streamAPI.SortNameStartsWithA" />
-      <module name="Java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.streamAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StatisticsCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8.interview.StatisticsCalculator" />
       <module name="Java8" />
@@ -146,26 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.interview.demo" />
-      <module name="Java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainOptional" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainPoint" />
         <item itemvalue="Application.MethodReferenceExample" />
         <item itemvalue="Application.StatisticsCalculator" />
-        <item itemvalue="Application.demo" />
-        <item itemvalue="Application.SortNameStartsWithA" />
       </list>
     </recent_temporary>
   </component>
@@ -195,11 +187,39 @@
       <workItem from="1731652498657" duration="856000" />
       <workItem from="1731760869034" duration="2530000" />
       <workItem from="1731768263703" duration="4361000" />
-      <workItem from="1731774806847" duration="972000" />
+      <workItem from="1731774806847" duration="1659000" />
+      <workItem from="1731836364967" duration="996000" />
+      <workItem from="1731908603370" duration="2290000" />
+      <workItem from="1731911490181" duration="1709000" />
+      <workItem from="1731941720468" duration="681000" />
     </task>
+    <task id="LOCAL-00001" summary="Learning Method Reference in java 8">
+      <option name="closed" value="true" />
+      <created>1731777152585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731777152585</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learning Method Reference in java 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning Method Reference in java 8" />
   </component>
 </project>

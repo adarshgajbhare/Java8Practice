@@ -1,11 +1,11 @@
 package java8.methodReference;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public class MainPoint {
     public static void main(String[] args) {
+
 
       // calling method using lambda function
         UpperCaseInterface up = (str) ->{
