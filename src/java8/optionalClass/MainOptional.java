@@ -15,13 +15,6 @@ public class MainOptional {
 
         System.out.println(strOptional.orElse("empty String"));
 
-        List  list = new ArrayList();
-    list.add(22);
-    list.add("afjf");
-    list.add(47238.6467);
-    list.add(new Student());
-        System.out.println(list);
-
     }
 
 }
